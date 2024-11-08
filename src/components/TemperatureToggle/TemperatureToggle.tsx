@@ -13,7 +13,7 @@ type TemperatureToggleProps = {
 const TemperatureToggle: React.FC<TemperatureToggleProps> = ({
   unit,
   onToggle,
-  activeColor = 'bg-gradient-to-r from-blue-500 to-blue-700',
+  activeColor = 'bg-indigo-400',
   inactiveColor = 'bg-gray-300',
   textColor = 'text-gray-500'
 }) => {
