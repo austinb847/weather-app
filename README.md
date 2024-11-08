@@ -9,6 +9,12 @@ Install dependencies.
 pnpm install
 ```
 
+Add env variable to .env file
+
+```bash
+VITE_OPENWEATHER_API_KEY={your open weather api key}
+```
+
 Serve with hot reload at <http://localhost:5173>.
 
 ```bash
