@@ -1,7 +1,7 @@
 ## Getting Started
 
 ### Production Url:
-https://weather-fwk7ox305-austinb847s-projects.vercel.app/
+https://weather-app-rouge-seven-28.vercel.app/
 
 Install dependencies.
 
